@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Analysis\YellowTea\.idea\YellowTea.iml" filepath="D:\Analysis\YellowTea\.idea\YellowTea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gauss.iml" filepath="$PROJECT_DIR$/.idea/gauss.iml" />
+      <module fileurl="file://D:\Analysis\wulongtea\.idea\wulongtea.iml" filepath="D:\Analysis\wulongtea\.idea\wulongtea.iml" />
+    </modules>
+  </component>
+</project>
